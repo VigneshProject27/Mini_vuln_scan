@@ -7,3 +7,4 @@ pip install python-nmap
 pip install pillow
 pip install tkinter
 pip install requests
+You have to get your own API key to run this project from (NVD) National Vulnerability database
